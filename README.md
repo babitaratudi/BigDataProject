@@ -10,8 +10,8 @@
 
 ## Technologies Used
 
-1. **Azure Data Lake Storage:** Raw, cleaned, and curated data storage
-2. **Azure Data Factory:** Data orchestration and pipeline automation
+1. **Azure Data Factory:** Data orchestration and pipeline automation
+2. **Azure Data Lake Storage:** Raw, cleaned, and curated data storage
 3. **Databricks (PySpark):** Data processing and transformation (Bronze/Silver/Gold)
 4. **MongoDB:** Product category enrichment
 5. **GitHub:** Version control
@@ -48,6 +48,8 @@
 ---
 
 ## Data Flow Diagram
+
+!Alt text
 
 
 
