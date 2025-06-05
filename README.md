@@ -47,17 +47,9 @@
 
 ---
 
-## Data Flow Diagram
-
-!Alt text
-
-
-
----
-
 ## Architecture Diagram
 
-
+![Architecture Diagram](Architecture Diagram.png)
 
 ---
 
