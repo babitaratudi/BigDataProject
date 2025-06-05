@@ -46,6 +46,11 @@
   The dataset contains information on orders, customers, order items, payments, reviews, products, sellers, and geolocations.
 
 ---
+## Data ingestion flow
+
+![Ingestion Diagram](https://github.com/babitaratudi/BigDataProject/blob/main/Data%20Ingestion%20flow.png)
+
+---
 
 ## Architecture Diagram
 
