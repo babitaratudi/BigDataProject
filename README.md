@@ -49,7 +49,7 @@
 
 ## Architecture Diagram
 
-![Architecture Diagram](Architecture Diagram.png)
+![Architecture Diagram](https://github.com/babitaratudi/BigDataProject/blob/main/Architecture%20Diagram.png)
 
 ---
 
